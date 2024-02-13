@@ -4,3 +4,7 @@
 **BS Computer Science** 
 
 # https://jedalain.github.io/CMSC-100-Lab-Exer2/
+
+My key takeaways from this exercise are: 
+- that it is possible to deploy a website for free, without paying a single cent. 
+- it is hard to create a webpage from scratch within just two hours
